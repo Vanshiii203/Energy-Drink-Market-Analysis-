@@ -1,10 +1,10 @@
 # Energy-Drink-Market-Analysis
 Situation: The marketing team aims to increase brand awareness, market share, and product development. To gather insights, a survey was conducted in 10 cities, generating responses from 10,000 respondents.
-**Task:** To extracted key insights from survey result to drive marketing strategies.
-**Action:** Created a report presenting my analysis from market survey results.
-**Tools and Techniques used:** MySQL and Canva
+**Task:** To extracted key insights from survey result to drive marketing strategies.  
+**Action:** Created a report presenting my analysis from market survey results.  
+**Tools and Techniques used:** MySQL and Canva 
 
-**Questions:**
+**Questions:**  
 1)Who prefers energy drink more? (male/female/non-binary)?  
 2)Which age group prefers energy drinks more?  
 3)Which type of marketing reaches the most Youth (15-30)?  
@@ -18,8 +18,8 @@ Situation: The marketing team aims to increase brand awareness, market share, an
 11)Which cities have the highest percentage of respondents who have heard of the brand before?  
 12)What Should be the price range of drink according to city?  
 
-**Insights:**
-The Marketing Team Should 
+**Insights:**  
+The Marketing Team Should:
 - Prioritize marketing campaigns aimed at the male demographic.
 - Develop age-specific marketing strategies, particularly focusing on the 19-30 age group.
 - Increase investment in effective marketing channels, such as social media platforms, influencer partnerships, and digital advertising.
